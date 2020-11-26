@@ -1,4 +1,4 @@
-Linux-za-pocetnike II deo
+# Linux-za-pocetnike II deo
 
 Kurs za totalne pocetnike
 
